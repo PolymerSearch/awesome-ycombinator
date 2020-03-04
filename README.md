@@ -1,7 +1,10 @@
 # awesome-ycombinator
 A collection of awesome YCombinator resources for maximizing your startup and business.
 
-![ycadvice.com](ycadvice.jpg)
+These YC resources can also be conveniently browsed at [YCAdvice.com](ycadvice.com). Converted using [Polymer Search](http://polymersearch.com/beta), a search and insights engine that converts any set of structured data to a powerful experience.
+<p align="center">
+  <img width="300" src="ycadvice.jpg">
+</p>
 
 * [Best resources by Topic](#best-resources-by-topic)
   * [Paul Graham Essays](#paul-graham-essays)
