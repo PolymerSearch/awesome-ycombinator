@@ -4,7 +4,8 @@ A collection of awesome YCombinator resources for maximizing your startup and bu
 <p align="center">
   <img width="450" src="ycadvice.jpg">
 </p>
-These YC resources can also be conveniently browsed at <a href="https://ycadvice.com" target="_blank">YCAdvice.com</a>. Converted using [Polymer Search](http://polymersearch.com/beta), a search and insights engine that converts any structured data into a powerful web experience.
+These YC resources can also be conveniently browsed at <a href="https://ycadvice.com" target="_blank">YCAdvice.com</a>. 
+Converted using [Polymer Search](http://polymersearch.com/beta), a search and insights engine that converts any structured data into a powerful web experience.
 
 ----------
 
