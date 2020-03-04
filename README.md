@@ -6,6 +6,8 @@ These YC resources can also be conveniently browsed at [YCAdvice.com](ycadvice.c
   <img width="450" src="ycadvice.jpg">
 </p>
 
+----------
+
 * [Best resources by Topic](#best-resources-by-topic)
   * [Paul Graham Essays](#paul-graham-essays)
   * [Fundraising](#fundraising)
