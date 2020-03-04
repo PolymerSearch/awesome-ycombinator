@@ -1,7 +1,7 @@
 # awesome-ycombinator
 A collection of awesome YCombinator resources for maximizing your startup and business.
 
-![ycadvice.com](http://polymersearch.com/assets/ycadvice.jpg)
+![ycadvice.com](http://polymersearch.com/assets/ycadvice.png)
 
 * [Best resources by Topic](#best-resources-by-topic)
   * [Paul Graham Essays](#paul-graham-essays)
