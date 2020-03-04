@@ -1,5 +1,5 @@
 # awesome-ycombinator
-A collection of awesome YCombinator resources for maximizing your startup and business.
+A collection of awesome YCombinator resources for maximizing your startup and business success.
 
 <p align="center">
   <img width="500" src="ycadvice.jpg">
