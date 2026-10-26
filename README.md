@@ -518,6 +518,7 @@ Converted using [Polymer Search](http://polymersearch.com/beta), a search and in
 * [What working on Pebble taught me about building hardware | TechCrunch](https://techcrunch.com/2017/09/19/what-working-on-pebble-taught-me-about-building-hardware/)
 * [A Conversation with Elizabeth Iorns: Advice for Biotech Founders](https://www.startupschool.org/videos/58)
 * [Founder Stories: Blake Scholl of Boom Technology](https://blog.ycombinator.com/founder-stories-blake-scholl-of-boom-technology/)
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 ## Scale
 * [Learning from Founders](http://www.paulgraham.com/foundersatwork.html)
 * [A Local Revolution?](http://www.paulgraham.com/revolution.html)
